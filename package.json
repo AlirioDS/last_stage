@@ -7,7 +7,7 @@
     "start": "node server/index.js",
     "build:dev": "webpack-dev-server --config ./webpack.dev.config.js",
     "build:dll": "webpack --config ./webpack.dll.config.js --mode production",
-    "build": "webpack --config ./webpaczk.config.js --mode production"
+    "build": "webpack --config ./webpack.config.js --mode production"
   },
   "keywords": [],
   "author": "Alirio Diaz",
